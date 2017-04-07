@@ -1,4 +1,5 @@
 ![screenshot](https://github.com/MariaOChristensen/MiniEx8/blob/master/Pepper%20Steak%20FLOWCHART.png)
+
 Instead of selecting one of Shiffman's coding challenges I choose one of my own programs - Mini Ex 4, Pepper Steak - because I thought it could be a fun challenge to view something personal through an optic lens, and to create a flowchart of a program that is neither linear nor has an end to it.
 
 The proram itself can be found here: https://cdn.rawgit.com/MariaOChristensen/MiniEx4/gh-pages/Mini%20ex%204/index.html
